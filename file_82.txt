@@ -1,0 +1,850 @@
+ 
+
+Lessons from the past: Some key learnings relevant to the coronavirus crisis | Blackcoffer Insights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign in
+
+
+
+
+Our Success Stories
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Infrastructure & Real Estate
+IT
+Lifestyle, eCommerce & Online Market Place
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+Telecom
+
+
+What We Do
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Hospitality
+Infrastructure & Real Estate
+IT Services
+Lifestyle, eCommerce & Online Market Place
+News & Media
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+
+
+What We Think
+
+Automobiles & Components
+BFSI
+Asset and Portfolio
+Banks
+Capital Markets
+Derivatives and Securities
+Diversified Financials
+Finance & Accounting
+Insurance
+Securities and Capital Markets
+Capital Goods
+Commercial & Professional Services
+Consumer Discretionary
+Consumer Durables & Apparel
+Consumer Services
+Consumer Staples
+Food & Staples Retailing
+Food, Beverage & Tobacco
+Household & Personal Products
+Data Science
+Analytics
+Artificial Intelligence
+Big Data
+Business Analytics
+Data Visualization
+Internet of Things
+Machine Learning
+Statistics
+Energy
+DataOil
+
+
+How To
+
+Analytics
+Application Development
+Artificial Intelligence
+Business Analytics
+Example
+Optimization
+Projects
+Software Development
+Source Code Audit
+Statistics
+Web & Mobile App Development
+
+
+Schedule Demo
+Contact
+ 
+
+
+
+
+
+
+
+Sign in
+
+
+
+
+
+
+Welcome!Log into your account
+
+your username
+your password
+
+
+Forgot your password?
+
+
+
+
+
+
+
+
+
+Password recovery
+
+
+Recover your password
+
+your email
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+  
+
+
+
+
+ 
+
+
+
+
+
+
+Sign in
+Welcome! Log into your account
+
+
+your username
+your password
+
+
+Forgot your password? Get help
+
+
+Password recovery
+Recover your password
+
+
+your email
+
+
+A password will be e-mailed to you.
+
+
+
+
+
+
+
+
+
+
+Wednesday, April 19, 2023 
+
+
+
+Sign in / Join 
+
+Our Success Stories
+What We Do
+What We Think
+How To
+Schedule Demo
+Contact
+
+
+FacebookLinkedinTwitterYoutube
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Our Success Stories
+
+
+AllBanking, Financials, Securities, and InsuranceEnergyEntertainmentFast Moving Consumer GoodsGovernment & Think TanksHealthcareInfrastructure & Real EstateITLifestyle, eCommerce & Online Market PlaceProduction & ManufacturingResearch & Academia
+
+
+
+Our Success Stories  
+
+Ranking customer behaviours for business strategy
+
+
+December 31, 2022 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Algorithmic trading for multiple commodities markets, like Forex, Metals, Energy, etc.
+
+
+December 31, 2022 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Trading Bot for FOREX
+
+
+December 31, 2022 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Python model for the analysis of sector-specific stock ETFs for investment purposes
+
+
+December 31, 2022 
+
+
+
+
+ 
+
+
+What We Do
+
+
+AllBanking, Financials, Securities, and InsuranceEnergyEntertainmentFast Moving Consumer GoodsGovernment & Think TanksHealthcareHospitalityInfrastructure & Real EstateIT ServicesLifestyle, eCommerce & Online Market PlaceNews & Media
+
+
+
+What We Do  
+
+Playstore & Appstore to Google Analytics (GA) or Firebase to Google Data Studio Mobile App KPI Dashboard
+
+
+September 19, 2022 
+
+
+
+
+
+
+
+What We Do  
+
+Google Local Service Ads LSA API To Google BigQuery to Google Data Studio
+
+
+May 6, 2022 
+
+
+
+
+
+
+
+Our Success Stories  
+
+AI Conversational Bot using RASA
+
+
+February 19, 2022 
+
+
+
+
+
+
+
+What We Do  
+
+Recommendation System Architecture
+
+
+October 28, 2021 
+
+
+
+
+ 
+
+
+What We Think
+
+
+AllAutomobiles & ComponentsBFSIAsset and PortfolioBanksCapital MarketsDerivatives and SecuritiesDiversified FinancialsFinance & AccountingInsuranceSecurities and Capital MarketsCapital Goods
+
+
+
+What We Think  
+
+Rise of telemedicine and its Impact on Livelihood by 2040
+
+
+January 2, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rise of e-health and its impact on humans by the year 2030
+
+
+January 2, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rise of e-health and its impact on humans by the year 2030
+
+
+January 2, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rise of telemedicine and its Impact on Livelihood by 2040
+
+
+January 2, 2023 
+
+
+
+
+ 
+
+
+How To
+
+
+AllAnalyticsApplication DevelopmentArtificial IntelligenceBusiness AnalyticsExampleOptimizationProjectsSoftware DevelopmentSource Code AuditStatisticsWeb & Mobile App Development
+
+
+
+What We Do  
+
+AI/ML and Predictive Modeling
+
+
+February 3, 2022 
+
+
+
+
+
+
+
+Blackcoffer  
+
+Solution for Contact Centre Problems
+
+
+April 26, 2021 
+
+
+
+
+
+
+
+How To  
+
+How to Setup Custom Domain for Google App Engine Application?
+
+
+February 13, 2021 
+
+
+
+
+
+
+
+How To  
+
+Code Review Checklist
+
+
+April 10, 2020 
+
+
+
+
+ 
+
+
+Schedule Demo
+Contact
+
+
+Search  
+
+
+
+
+ 
+
+
+
+
+Home  What We Think  Lessons from the past: Some key learnings relevant to the coronavirus crisis
+
+
+
+BlackcofferWhat We ThinkHealthcare Lessons from the past: Some key learnings relevant to the coronavirus crisis
+
+By Ajay Bidyarthy -   May 1, 2020 5804 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The current topic that is burning the world alive is the deadly coronavirus. Let us first understand what this coronavirus actually is. According to the World Health Organization (WHO), the Coronavirus disease which is called the COVID-19 is an infectious disease which is caused by the newly discovered Coronavirus. The COVID-19 virus is a virus that affects different people of the world in different ways. The COVID-19 disease is a respiratory disease and most of the infected people will develop mild to moderate symptoms and recover without even requiring special treatment.  The people who already have underlying medical conditions and those people who are over 60 years old have a higher risk of developing severe disease and death.
+Common symptoms include:
+fevertirednessdry cough.
+Other symptoms include:
+shortness of breathaches and painssore throatand very few people in the world will report diarrhea, nausea, or a runny nose.
+The people living in this world who have only mild symptoms of this deadly disease but are otherwise healthy should self-isolate and contact their medical provider or a COVID-19 information line for advice on testing and referral. The people who have a fever, cough, or difficulty breathing should call their doctor and seek medical attention.
+Some key lessons from the deadly disease Coronavirus: In the last 3 months, there has been a drastic change to human life all around the world. The coronavirus outbreak happening in the world is no more just an epidemic but it is also considered as a global pandemic now. The people everywhere in the world are being asked to stay home and stay away from other people so as to reduce the risk of infection.
+The deadly disease Coronavirus has brought with it a wave of negative outcomes, terrible illness, and death, but at the same time it has also highlighted some important life lessons. Some of them are as follows:
+1. You should be willing to trade some of your freedom for the greater good of the public: There is no doubt for anyone that it has been difficult for everyone in the world to stay at home. Many people complaining about feeling bored and aimless. Some people may even have the feeling that it is a breach of their individual rights, being made to stay home. However, when it comes to the greater good, one should always be willing to sacrifice a little bit of that freedom. A balance between individual rights and public safety is an ever-changing thing. Trade a little bit of your freedom for the greater good of the public.
+2. You should wash your hands, whether there’s a virus or not: General hygiene is always important. Not just when there is a virus. You should know the drill by now. Wet your hands. Lather them with soap. Scrub for 20 seconds. Rinse off. Dry with a clean towel. Washing hands on a regular basis are really the best way to keep safe because soap is a very effective way to kill viruses.
+3. Working from home should be an option for many: In this time of the global outbreak of the Coronavirus disease, many people have learned that their jobs were possible to do from home. Most jobs have a certain amount of work that can be done remotely. Without the virus in place, there should still be some system in place that will promote work-life balance.
+4. Taking that sick day from the work could save lives: If you are feeling sick at any day in this situation, it is highly beneficial that you just stay home. It is a common feeling among lots of people that their office environment does not encourage taking sick days. Many people want to appear like martyrs to their managers. This mentality needs to stop. If you are sick, just stay home.
+5. The Internet should be a basic right: According to a study done by the University of Birmingham, the right to Internet access, also known as the right to broadband, should be considered a human right. Many people from all over the world are unable to get online, particularly the people who live in developing countries, and so they lack meaningful ways to influence the global players shaping their everyday lives. In addition to this, during times like these, it is especially important to be able to contact family, friends, and work from home if necessary. The Internet is the only way to do so.
+6. The doctors and the researchers need to be paid better: If this scary time has taught us anything, it’s that doctors and researchers will be the ones who get us out of this mess. The doctors and the researchers are the only ones who are working day and night to drive the recovery of the world. At the moment, hundreds of scientists scramble to find a coronavirus treatment. It is high time for us that we need to re-evaluate how much money Hollywood actors, pro-athletes, and politicians make and instead pay the scientist and the doctors the salary they deserve.
+7. Everyone should know how to cook: The situation that has forced everyone to stay at home has forced many people to learn, re-learn, or re-ignite their love for cooking. Learning how to cook is to have one of the most important skills in life. You depend on yourself. It teaches you self-sustainability and you save a lot of money. These days, hundreds of people sharing social media posts of their delicious meals. They are re-discovering the wonders of eating in.
+8. The importance of talking to friends every day: Now that we can’t go out and keep busy, the best way to combat loneliness is to be in regular contact with friends and family, by chatting over the phone or video chatting. This is the time to have long talks and deep conversations. Don’t forget human connection during these crucial times. Call your grandma!
+9. Learn to appreciate nature: If you live near a spacious outdoor area, like the desert or an empty road lined with trees and you realize it is the only safe, surface-less space to take a walk in, then you start to realize how beautiful nature actually is. The point is not to remain indoors, but to avoid being in close contact with others. When you do leave your home, whether it is for a walk in the desert or a run on your street, make sure to wipe down any surfaces with which you come into contact and at the same time also avoid touching your face and frequently wash your hands.
+10. Learn how to be content alone: It is so hard for some people to just be still and do nothing. Being alone, especially for extroverts can be exhausting and lonely. Social distancing can be very difficult, but it can also teach you a lot about yourself. You learn how to keep yourself busy. Your body and mind is your home and you have to learn how to love it and live with it.
+Conclusion: It is rightly said that it is important to learn from the past. The deadly Coronavirus disease that is taking the lives of so many people across the world, has taught so many life lessons to the people living in it. These lessons are not meant to be forgotten but are to be remembered by human beings in order to make the Earth a beautiful place to live in. Lastly, I would like to conclude by mentioning that “Stay at Home. Stay Safe. Save Lives”.
+Blackcoffer Insights 17: Snehasish Ghosh, Darrang College Assam
+
+
+
+
+
+Previous articleLessons from the past: Some key learnings relevant to the coronavirus crisisNext articleCoronavirus: Impact on the Hospitality Industry Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Rise of telemedicine and its Impact on Livelihood by 2040 
+
+ 
+
+
+
+ 
+
+Rise of e-health and its impact on humans by the year 2030 
+
+ 
+
+
+
+ 
+
+Rise of e-health and its impact on humans by the year 2030 
+
+  
+
+ 
+
+
+
+
+
+- Advertisement -MOST POPULAR INSIGHTS
+
+
+
+
+Big Data Analytic in Construction & Real Estate 
+June 20, 2019 
+
+
+ 
+
+
+
+
+Google Local Service Ads (LSA) Data Warehouse 
+August 30, 2021 
+
+
+ 
+
+
+
+
+Coronavirus: Effect on the Hospitality Industry 
+April 30, 2020 
+
+
+ 
+
+
+
+
+How Retail Industry Drive Value from Big Data? 
+July 25, 2017 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+Which one is better AI or big data?
+
+ 
+
+
+
+ 
+Web Data Connector
+
+ 
+
+
+
+ 
+Blockchain for Payments
+
+ 
+
+
+
+ 
+ETL and MLOps Infrastructure for Blockchain Analytics
+
+   
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+LATEST ARTICLE
+
+
+
+ 
+
+Rise of telemedicine and its Impact on Livelihood by 2040
+
+
+January 2, 2023 
+
+
+
+
+
+
+
+ 
+
+Rise of e-health and its impact on humans by the year 2030
+
+
+January 2, 2023 
+
+
+
+
+
+
+
+ 
+
+Rise of e-health and its impact on humans by the year 2030
+
+
+January 2, 2023 
+
+
+
+
+
+
+
+POPULAR INSIGHTS
+
+
+
+ 
+
+Rise of telemedicine and its Impact on Livelihood by 2040
+
+
+January 2, 2023 
+
+
+
+
+
+
+
+ 
+
+Rise of e-health and its impact on humans by the year 2030
+
+
+January 2, 2023 
+
+
+
+
+
+
+
+ 
+
+Rise of e-health and its impact on humans by the year 2030
+
+
+January 2, 2023 
+
+
+
+
+
+
+
+POPULAR INSIGHTS CATEGORYWhat We Think166Our Success Stories126Blackcoffer118Healthcare52Artificial Intelligence51IT46Big Data44Lifestyle, eCommerce & Online Market Place38
+
+
+
+
+
+
+ 
+
+
+
+ABOUT US
+
+We provide intelligence, accelerate innovation and implement technology with extraordinary breadth and depth global insights into the big data,data-driven dashboards, applications development, and information management for organizations through combining unique, specialist services and high-lvel human expertise.
+
+Contact us: hello@blackcoffer.com
+
+
+FOLLOW US
+
+FacebookLinkedinTwitterYoutube
+
+
+
+
+© All Right Reserved, Blackcoffer(OPC) Pvt. Ltd
+
+
+Our Success Stories
+What We Do
+What We Think
+How To
+Schedule Demo
+Contact
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

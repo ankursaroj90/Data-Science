@@ -1,0 +1,909 @@
+ 
+
+Coronavirus: Impact on the Hospitality Industry | Blackcoffer Insights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign in
+
+
+
+
+Our Success Stories
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Infrastructure & Real Estate
+IT
+Lifestyle, eCommerce & Online Market Place
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+Telecom
+
+
+What We Do
+
+Banking, Financials, Securities, and Insurance
+Energy
+Entertainment
+Fast Moving Consumer Goods
+Government & Think Tanks
+Healthcare
+Hospitality
+Infrastructure & Real Estate
+IT Services
+Lifestyle, eCommerce & Online Market Place
+News & Media
+Production & Manufacturing
+Research & Academia
+Retail & Supply Chain
+
+
+What We Think
+
+Automobiles & Components
+BFSI
+Asset and Portfolio
+Banks
+Capital Markets
+Derivatives and Securities
+Diversified Financials
+Finance & Accounting
+Insurance
+Securities and Capital Markets
+Capital Goods
+Commercial & Professional Services
+Consumer Discretionary
+Consumer Durables & Apparel
+Consumer Services
+Consumer Staples
+Food & Staples Retailing
+Food, Beverage & Tobacco
+Household & Personal Products
+Data Science
+Analytics
+Artificial Intelligence
+Big Data
+Business Analytics
+Data Visualization
+Internet of Things
+Machine Learning
+Statistics
+Energy
+DataOil
+
+
+How To
+
+Analytics
+Application Development
+Artificial Intelligence
+Business Analytics
+Example
+Optimization
+Projects
+Software Development
+Source Code Audit
+Statistics
+Web & Mobile App Development
+
+
+Schedule Demo
+Contact
+ 
+
+
+
+
+
+
+
+Sign in
+
+
+
+
+
+
+Welcome!Log into your account
+
+your username
+your password
+
+
+Forgot your password?
+
+
+
+
+
+
+
+
+
+Password recovery
+
+
+Recover your password
+
+your email
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+  
+
+
+
+
+ 
+
+
+
+
+
+
+Sign in
+Welcome! Log into your account
+
+
+your username
+your password
+
+
+Forgot your password? Get help
+
+
+Password recovery
+Recover your password
+
+
+your email
+
+
+A password will be e-mailed to you.
+
+
+
+
+
+
+
+
+
+
+Wednesday, April 19, 2023 
+
+
+
+Sign in / Join 
+
+Our Success Stories
+What We Do
+What We Think
+How To
+Schedule Demo
+Contact
+
+
+FacebookLinkedinTwitterYoutube
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Our Success Stories
+
+
+AllBanking, Financials, Securities, and InsuranceEnergyEntertainmentFast Moving Consumer GoodsGovernment & Think TanksHealthcareInfrastructure & Real EstateITLifestyle, eCommerce & Online Market PlaceProduction & ManufacturingResearch & Academia
+
+
+
+Our Success Stories  
+
+Ranking customer behaviours for business strategy
+
+
+December 31, 2022 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Algorithmic trading for multiple commodities markets, like Forex, Metals, Energy, etc.
+
+
+December 31, 2022 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Trading Bot for FOREX
+
+
+December 31, 2022 
+
+
+
+
+
+
+
+Our Success Stories  
+
+Python model for the analysis of sector-specific stock ETFs for investment purposes
+
+
+December 31, 2022 
+
+
+
+
+ 
+
+
+What We Do
+
+
+AllBanking, Financials, Securities, and InsuranceEnergyEntertainmentFast Moving Consumer GoodsGovernment & Think TanksHealthcareHospitalityInfrastructure & Real EstateIT ServicesLifestyle, eCommerce & Online Market PlaceNews & Media
+
+
+
+What We Do  
+
+Playstore & Appstore to Google Analytics (GA) or Firebase to Google Data Studio Mobile App KPI Dashboard
+
+
+September 19, 2022 
+
+
+
+
+
+
+
+What We Do  
+
+Google Local Service Ads LSA API To Google BigQuery to Google Data Studio
+
+
+May 6, 2022 
+
+
+
+
+
+
+
+Our Success Stories  
+
+AI Conversational Bot using RASA
+
+
+February 19, 2022 
+
+
+
+
+
+
+
+What We Do  
+
+Recommendation System Architecture
+
+
+October 28, 2021 
+
+
+
+
+ 
+
+
+What We Think
+
+
+AllAutomobiles & ComponentsBFSIAsset and PortfolioBanksCapital MarketsDerivatives and SecuritiesDiversified FinancialsFinance & AccountingInsuranceSecurities and Capital MarketsCapital Goods
+
+
+
+What We Think  
+
+Rise of telemedicine and its Impact on Livelihood by 2040
+
+
+January 2, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rise of e-health and its impact on humans by the year 2030
+
+
+January 2, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rise of e-health and its impact on humans by the year 2030
+
+
+January 2, 2023 
+
+
+
+
+
+
+
+What We Think  
+
+Rise of telemedicine and its Impact on Livelihood by 2040
+
+
+January 2, 2023 
+
+
+
+
+ 
+
+
+How To
+
+
+AllAnalyticsApplication DevelopmentArtificial IntelligenceBusiness AnalyticsExampleOptimizationProjectsSoftware DevelopmentSource Code AuditStatisticsWeb & Mobile App Development
+
+
+
+What We Do  
+
+AI/ML and Predictive Modeling
+
+
+February 3, 2022 
+
+
+
+
+
+
+
+Blackcoffer  
+
+Solution for Contact Centre Problems
+
+
+April 26, 2021 
+
+
+
+
+
+
+
+How To  
+
+How to Setup Custom Domain for Google App Engine Application?
+
+
+February 13, 2021 
+
+
+
+
+
+
+
+How To  
+
+Code Review Checklist
+
+
+April 10, 2020 
+
+
+
+
+ 
+
+
+Schedule Demo
+Contact
+
+
+Search  
+
+
+
+
+ 
+
+
+
+
+Home  What We Think  Coronavirus: Impact on the Hospitality Industry
+
+
+
+BlackcofferWhat We ThinkHealthcare Coronavirus: Impact on the Hospitality Industry
+
+By Ajay Bidyarthy -   April 28, 2020 6157 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Before jumping on the topic I would like to give an overview of what is Coronavirus, Covid-19, how it spreads, and its symptoms.
+
+Coronavirus –  Coronavirus is a large family of viruses that may cause illness in animals or humans.  In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease Covid-19.
+COVID-19 –  Covid-19 is infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019.
+How it spreads – People can catch COVID-19 from others who have the virus. The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales.
+Symptoms – Cough, fever, tiredness, aches, pains, nasal congestion, runny nose, sore throat or diarrhea, and difficulty breathing (severe cases).
+
+Coronavirus impact on the Hospitality industry
+Waitresses, hotel housekeepers, and casino dealers are among the more than 15 million hospitality jobs in U.S. cities at risk from restrictions being put in place to deal with the spread of Covid-19.  Bureau of Labor Statistics data through May 2018 covering 40 occupations critical to America’s hospitality and gaming industries.
+Restaurant, Hotel, and Casino Jobs Face Virus Risk
+Hospitality workers as a share of each metro area’s workforce (circles sized by total hospitality jobs).
+As of 20 April 2020 at least 23 states have closed bars or restaurants, around 20 have prohibited gatherings of more than 50 people, and several have begun implementing curfews and shuttering non-essential businesses. The most extreme measures have occurred in California where a shelter-in-place directive was announced by Gov. Gavin Newsom on Thursday. The order requires 40 million California residents to remain at home except for essential activities or jobs. In addition to critical government and healthcare roles, cafes and restaurants are allowed to stay open but only for take-out or delivery, which has already led to mass layoffs.
+Nowhere are there more threatened jobs than in the New York metro area, where one million people work in hospitality. This includes 157,000 waiters and waitresses, 40,000 bartenders, and 8,500 hotel desk clerks. On 20 April 2020, Gov. Andrew Cuomo ordered all non-essential workers to remain at home for the foreseeable future. The Los Angeles area has the second-most such workers—around 800,000—including 22,000 people who work at amusement parks and recreation facilities. This represents between 11% to 13% of these cities’ respective workforces in recent years.
+Most Hospitality Jobs
+There are 4.6 million hospitality workers in the top city clusters
+
+
+
+
+Metropolitan area
+Hospitality Jobs
+
+
+New York
+1013630
+
+
+San Francisco
+289990
+
+
+Philadelphia
+302800
+
+
+Houston
+346520
+
+
+Washington
+347900
+
+
+
+
+The pain of an extensive and prolonged coronavirus-related shutdown will be especially felt in the nation’s tourism hotspots. Roughly one in four workers in beach destinations like Kahului, on the island of Maui in Hawaii, and Myrtle Beach, South Carolina are employed in the hospitality sector. The same goes for gambling towns like Atlantic City and Las Vegas, where the governor of Nevada recently announced a 30-day shutdown of all casinos.
+Most Reliant on Hospitality Sector
+The hospitality industry matters most in beach and gambling destinations
+
+
+
+
+Metropolitan area
+Hospitality Jobs
+
+
+Las Vegas
+241480
+
+
+Myrtle Beach
+39170
+
+
+Salisbury
+28070
+
+
+Wilmington
+22170
+
+
+Atlantic City
+30210
+
+
+
+
+All but five of the 40 occupations in this analysis fall into broad categories that were less likely than the workforce overall to work from home on average in 2018, according to the BLS American Time Use Survey. Additionally, 17 of the roles, including restaurant wait staff and table game dealers, require at least arm’s-length contact with others, based on physical proximity scores compiled by the O*NET database of occupational information. At a time when most major cities are urging residents to stay at home and practice social distancing, few jobs are more at risk than these.
+Blackcoffer Insights 17:- Harsh Gupta, PIBM Pune
+
+
+
+TAGSCoronavirus: Impact on the Hospitality Industry 
+Previous articleControversy as a Marketing StrategyNext articleCoronavirus impact on energy markets Ajay Bidyarthy  
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+ 
+
+Rise of telemedicine and its Impact on Livelihood by 2040 
+
+ 
+
+
+
+ 
+
+Rise of e-health and its impact on humans by the year 2030 
+
+ 
+
+
+
+ 
+
+Rise of e-health and its impact on humans by the year 2030 
+
+  
+
+ 
+
+
+
+
+
+- Advertisement -MOST POPULAR INSIGHTS
+
+
+
+
+Why scams like Nirav Modi Happen with Indian banks? 
+April 12, 2020 
+
+
+ 
+
+
+
+
+Data Harmonization, ETL, Data Cleansing, & Classifications 
+November 7, 2019 
+
+
+ 
+
+
+
+
+Creating a custom report and dashboard using the data got from... 
+January 16, 2022 
+
+
+ 
+
+
+
+
+ELK Stack – Elastic Queries 
+August 20, 2021 
+
+
+ Load more RECOMMENDED INSIGHTS
+
+
+
+ 
+iOS Mobile Applications Portfolio
+
+ 
+
+
+
+ 
+How we forecast future technologies?
+
+ 
+
+
+
+ 
+Splitting of Songs into its Vocals and Instrumental
+
+ 
+
+
+
+ 
+Stocktwits Data Structurization
+
+   
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+LATEST ARTICLE
+
+
+
+ 
+
+Rise of telemedicine and its Impact on Livelihood by 2040
+
+
+January 2, 2023 
+
+
+
+
+
+
+
+ 
+
+Rise of e-health and its impact on humans by the year 2030
+
+
+January 2, 2023 
+
+
+
+
+
+
+
+ 
+
+Rise of e-health and its impact on humans by the year 2030
+
+
+January 2, 2023 
+
+
+
+
+
+
+
+POPULAR INSIGHTS
+
+
+
+ 
+
+Rise of telemedicine and its Impact on Livelihood by 2040
+
+
+January 2, 2023 
+
+
+
+
+
+
+
+ 
+
+Rise of e-health and its impact on humans by the year 2030
+
+
+January 2, 2023 
+
+
+
+
+
+
+
+ 
+
+Rise of e-health and its impact on humans by the year 2030
+
+
+January 2, 2023 
+
+
+
+
+
+
+
+POPULAR INSIGHTS CATEGORYWhat We Think166Our Success Stories126Blackcoffer118Healthcare52Artificial Intelligence51IT46Big Data44Lifestyle, eCommerce & Online Market Place38
+
+
+
+
+
+
+ 
+
+
+
+ABOUT US
+
+We provide intelligence, accelerate innovation and implement technology with extraordinary breadth and depth global insights into the big data,data-driven dashboards, applications development, and information management for organizations through combining unique, specialist services and high-lvel human expertise.
+
+Contact us: hello@blackcoffer.com
+
+
+FOLLOW US
+
+FacebookLinkedinTwitterYoutube
+
+
+
+
+© All Right Reserved, Blackcoffer(OPC) Pvt. Ltd
+
+
+Our Success Stories
+What We Do
+What We Think
+How To
+Schedule Demo
+Contact
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
